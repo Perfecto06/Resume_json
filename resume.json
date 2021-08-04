@@ -1,0 +1,78 @@
+{
+	"basics": {
+		"name": "Aman Sharma",
+		"label": "Student",
+		"picture": "",
+		"email": "2018kucp1019@iiitkota.ac.in",
+		"phone": "+919828084003",
+		"summary": "I am a passionate programmer, active learner with a creative approach of doing things. I am currently a Student and learning new techologies and implementing those skills in real-world problems.",
+		"location": {
+			"address": "G-2/46, Shrinath Campus, Shyam Vatika Colony, Malviya Nagar",
+			"postalCode": "302017",
+			"city": "Jaipur",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "perfecto_pride",
+				"url": "https://www.twitter.com/perfecto_pride"
+			},
+			{
+				"network": "Github",
+				"username": "Perfecto06",
+				"url": "https://www.github.com/Perfecto06/"
+			},
+			{
+				"network": "linkedin",
+				"username": "amansharma99",
+				"url": "https://www.linkedin.com/in/amansharma99/"
+			},
+			{
+				"network": "Instagram",
+				"username": "perfecto_pride",
+				"url": "https://instagram.com/perfecto_pride"
+			}
+		]
+	},
+	"work": [{
+		"company": "Dates Shoppe",
+		"position": "Web Development Intern",
+		"website": "www.drstand.com",
+		"startDate": "2021-07-14",
+		"endDate": "2021-09-14",
+		"summary": "Dr.Stand is an e-commerce for products designed for ergonomic support of the user.",
+		"highlights": ["Website Design", "Designing a commerfcial website on Wix Web Builder."]
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology(IIIT), Kota",
+		"area": "Computer Science and Engineering",
+		"studyType": "Bachelor of Technology(B.Tech.)",
+		"startDate": "2018-04-08",
+		"endDate": "2022-06-01",
+		"gpa": "8.57",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"keywords": ["C/C++", "HTML", "CSS", "Object-Oriented Programming", "Git", "Python", "Java"]
+	},
+  {
+		"level": "Familiarity",,
+    "keywords": ["Javascript", "PHP", "Xampp", "Google Cloud"]
+  }
+  ],
+	"interests": [{
+		"name": "Cultural",
+		"keywords": ["Dance", "Dramatics"]
+	},
+  {
+    "name": "Sports",
+    "keyword": ["Badminton", "Athletics", "Football"]
+  },
+  {
+    "name": "Other Hobbies",
+    "keyword": ["Reading", "Poetry"]
+  }]
+}
