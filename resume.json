@@ -55,11 +55,16 @@
 			"Computer Science & Engineering"
 		]
 	}],
+	"publications": [{
+		"title": "Sun Oye (Chat Room Application)",
+		"details": "A local machine Chat Room application using MQTT protocol and Python (for GUI).",
+		"link": "https://github.com/Perfecto06/SunOye-1"
+	}],
 	"skills": [{
 		"keywords": ["C/C++", "HTML", "CSS", "Object-Oriented Programming", "Git", "Python", "Java"]
 	},
   {
-		"level": "Familiarity",,
+		"level": "Familiarity",
     "keywords": ["Javascript", "PHP", "Xampp", "Google Cloud"]
   }
   ],
