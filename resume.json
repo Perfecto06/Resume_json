@@ -61,23 +61,10 @@
 		"link": "https://github.com/Perfecto06/SunOye-1"
 	}],
 	"skills": [{
-		"keywords": ["C/C++", "HTML", "CSS", "Object-Oriented Programming", "Git", "Python", "Java"]
-	},
-  {
-		"level": "Familiarity",
-    "keywords": ["Javascript", "PHP", "Xampp", "Google Cloud"]
-  }
-  ],
+		"keywords": ["C/C++", "HTML", "CSS", "Object-Oriented Programming", "Git", "Python", "Java", "JavaScript", "PHP", "Xampp", "Google Cloud", "MS Office", "Data Structures", "Algorithms"]
+	}],
 	"interests": [{
 		"name": "Cultural",
 		"keywords": ["Dance", "Dramatics"]
-	},
-  {
-    "name": "Sports",
-    "keyword": ["Badminton", "Athletics", "Football"]
-  },
-  {
-    "name": "Other Hobbies",
-    "keyword": ["Reading", "Poetry"]
-  }]
+	}]
 }
